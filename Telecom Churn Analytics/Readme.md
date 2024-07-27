@@ -14,7 +14,7 @@ Task:
 You have been entrusted with conducting a thorough examination of Vertex Mobile Net.'s telecom data to 
 determine the factors contributing to customer churn and devise effective strategies for reducing churn and 
 boosting customer retention. 
-Using Power BI as the main BI tool: 
+Using Power BI as the main BI tool: <br>
 • Analyze customer data to track customer attrition.
 • Investigate churn reasons & understand why customers become churners
 • Dig deeper into churn categories and identify the most prevalent churn category, followed by the 
